@@ -1,5 +1,7 @@
 This is an encrypted message exchange. 
 
+In Python 3, make sure to install pycryptodome for crypto imports to work
+
 Run the server and then run the client python files. They can be on the same local machine or over the internet by simply changing the ip addresses.
 
 The encryption uses a predetermined key that is shared by both parties.
